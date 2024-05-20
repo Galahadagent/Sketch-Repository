@@ -7,4 +7,8 @@ In this repository you can explore my sketches, drawings etc. which I had create
 # Mitochondria
 ![1000037126](https://github.com/Galahadagent/Sketch-Repository/assets/161305918/ae4f71dc-4bb2-465b-938b-21e8c47ab6a7)
 
+# ...
+![1000037161](https://github.com/Galahadagent/Sketch-Repository/assets/161305918/661ab6b4-68a0-4509-9f2a-e56a92e55127)
+
+
 that's for now, new Skeches are coming soon...
