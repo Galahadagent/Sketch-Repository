@@ -13,4 +13,4 @@ In this repository you can explore my sketches, drawings etc. which I had create
 
 that's for now, new Skeches are coming soon...
 
-though you can see two cats images which was made by Google in the [# Cats](README.md)
+though you can see two cats images which was made by Google in the [# Cats](https://github.com/Galahadagent/Sketch-Repository?tab=readme-ov-file#cats)
